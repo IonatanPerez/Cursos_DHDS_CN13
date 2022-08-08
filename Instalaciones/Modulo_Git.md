@@ -224,7 +224,7 @@ Para terminar te proponemos poner en práctica lo que aprendimos creando una cop
 
 Para eso necesitamos lo siguiente:
 
-1) El link del repositorio que queremos clonar. En este caso el link es https://github.com/IonatanPerez/Cursos_DHDS_CN11.git
+1) El link del repositorio que queremos clonar. En este caso el link es https://github.com/IonatanPerez/Cursos_DHDS_CN13.git
 2.a) Si usamos consola ir a la carpeta donde queremos que quede guardada la version local de nuestros archivos. Ahi ejecutar "git clone [URL DEL GIT]"
 2.b) Si usamos VSC presionar ctr+shift+p y despues clone y pegar la URL. VSC nos va a pedir que elijamos donde queremos clonar el repositorio.
 2.c) Abrir la interfaz grafica (GUI) de Git y poner clonar. Elegir donde queremos que se clone y tambien el link a clonar.
