@@ -218,16 +218,21 @@ Si bien Git tiene un momento de opciones y manejar funciones avanzadas se puede 
 
 ![status](./Imagenes/gitcheat.png)
 
-## Como armar un repo propio con el contenido del curso
+## Como acceder al repositorio del curso
 
-Para terminar te proponemos poner en práctica lo que aprendimos creando una copia tuya de la info que hay que el repositorio del curso, de manera que puedas hacer todas las modificaciones que quieras sin alterar el original. 
+Para terminar te proponemos poner en práctica lo que aprendimos creando una copia tuya de la info que hay que el repositorio del curso, de manera que puedas hacer todas las modificaciones que quieras sin alterar el original y puedas ir accediendo a las actualizaciones de contenido de forma automatica.
 
 Para eso necesitamos lo siguiente:
 
-1) Acceso al repositorio del curso (en este ejemplo se llamará ds_blend_students_2020)
-2) Tener Git instalado
-3) Haber creado una cuenta en Github y haber creado un repositorio vacío (si lo creamos con el readme.md y el .gitignore no importa, se van a sobreescribir con la versión del repo que estamos copiando)
-4) Tener configuradas las credenciales en Git para poder acceder a nuestra cuenta de Github
+1) El link del repositorio que queremos clonar. En este caso el link es https://github.com/IonatanPerez/Cursos_DHDS_CN11.git
+2.a) Si usamos consola ir a la carpeta donde queremos que quede guardada la version local de nuestros archivos. Ahi ejecutar "git clone [URL DEL GIT]"
+2.b) Si usamos VSC presionar ctr+shift+p y despues clone y pegar la URL. VSC nos va a pedir que elijamos donde queremos clonar el repositorio.
+2.c) Abrir la interfaz grafica (GUI) de Git y poner clonar. Elegir donde queremos que se clone y tambien el link a clonar.
+*En todos los casos considerar que cuando se clona un repositorio se crea una carpeta con el nombre del repositorio y dentro de esa carpeta se copian todos los archivos*
+3) Cada tanto ir a la carpeta en la terminal terminal (o al proyecto en VSC) y poner "git pull" (o boton sync en VSC) eso recupera los archivos nuevos o modificaciones que se hayan hecho en la version online. 
+*Tener en cuenta que como el respositorio es publico pero no cualquiera puede modificarlo pull funciona porque pide informacion publica, pero todos los comandos que sirven para subir a github los cambios realizados en la computadora local van a fallar. Si la inteción es tener un proyecto propio completo con su correspondiente copia en github hay que hacer lo que se llama un fork, eso permite tener un proyecto entero propio pero que se puede cada tanto sincronizar para pedir las actualizaciones con el proyecto del que se 'forkeo'. Para mas detalles leer https://docs.github.com/en/get-started/quickstart/fork-a-repo*
+
+## Crear tu propio repositorio desde cero.
 
 Te invitamos a que veas el video y trates de reproducirlo en tu computadora. 
 
