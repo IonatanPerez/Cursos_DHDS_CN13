@@ -1,0 +1,118 @@
+Fecha y hora de respuesta;2. País o ciudad de nacimiento:;3. Género:;4. Fecha de nacimiento (en formato DD/MM/AAAA):;5. ¿Cuál es el máximo nivel educativo que cursás o cursaste?;6. ¿Qué carrera de grado cursás o cursaste?;7. ¿Qué carrera de posgrado cursás o cursaste?;8. ¿Trabajaste la semana pasada al menos una hora?;9. En ese trabajo...;10. ¿A qué se dedica o qué produce la empresa/establecimiento en el que trabajás?;11. ¿Desde qué fecha (DD/MM/AAAA) trabajás en este puesto?;12. ¿Cómo se llama tu ocupación?;"13. ¿Alguna vez (en este trabajo o en otra actividad) trabajaste con&nbsp;datos&nbsp;(recolectando, limpiando, analizando, etc.)?";14. ¿Cuántos años trabajaste con datos?(Si es menos de 1 registrá 0.);15. ¿Cuáles de las siguientes herramientas utilizaste? (indicar todas las utilizadas)- Excel- SPSS- SAS- R- Python- Otras (indicar cúales);16. ¿Alguna vez (en este trabajo o en otra actividad) trabajaste haciendo tareas de programación?;17. ¿Durante cuántos años? (Si no aplica ingresar 0);"18. ¿Con qué lenguajes? (Indicar todos los que apliquen)-&nbsp;Python- Ruby- PHP- Java- JavaScript- SQL- C++- Otros (indicar cuáles)";19. ¿Qué creés que va a pasar en el curso de Data Science?;20. ¿Qué te gustaría que pase?
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:09:49;Argentina;Masculino;07/04/1991;Universitario;Contador Publico;No Aplica;Sí;Realice las tereas diarias;Movimiento de suelos y agropecuaria;07/05/2016;Trabajo Independiente;Sí;0;Excel;No;0;No Aplica;"Vamos aprender a manejar datos, interpretarlos y con una buena ""limpieza y depuración"", vamos a poder tomar decisiones en forma predictiva.";Poder manejar e interpretar grandes cantidades de datos y poder con diferentes analisis y herramientas, poder llegar a conclusiones.
+09-08-2022 19:17:04;Colombia;Masculino;12/01/1999;Pregado;Ingeniería Industrial;Ninguna;Si;Soy Associate en PwC, trabajo en el equipo de adminsitración de datos de recursos Humanos;Consultorias mayormentte en auditoria, servicios tributarios y temas varios de Advisory ;20/05/2021;Associate;Actualmente trabajo como Associate en el equipo que administra la información de una empresa de 2000 empleados. empecé realizando novedades y validación de datos y también he realizado distintos tipos de analisís manejando principalmente Excel, Power Bi y Google Suit. ;1;Excel, Google Sheets, Google Forms, Power Bi, Power Query, Google Data Studio, Ui Path.;He desarrollado algunas rutinas de automatización en M o Power Query y Ui Path para automatizar algunas tareas.;1;M;Va a ser unn desafio interesante el organizar mis horarios laborales y combinanrlos con clases. Espero cumplir con el curso y acostumbrarme a usar python diarmiamente.;ETL, Pipelines, Web Scraping, Redes Neuronales
+10-08-2022 00:08:39;General Roca;Masculino;20/01/1996;Secundario;Administracion de empresas;Ninguna;Si;No;Cosmetica y Belleza;01/08/2021;Encargado local ;Si generando la base de datos de este mismo local;0;Excel, Python;No;0;Ninguno;Va a terminar con muchas relaciones interpersonales y conocimiento;Me gustaria quedar satisfecho con los conocimientos
+10-08-2022 00:10:21;Argentina;Masculino;25/01/97;Universitario;Actuario en economia;Null;Si;me pagan;Marketing;01/02/2022;Analista de modelado;Si;0;Excel, R, SAS;No;0;0;Aprender;Que aprenda
+10-08-2022 00:10:23;Buenos Aires. Argentina;Masculino;18/02/2000;Universitario Pausado ;Lic. en Finanzas;0;Si 8hs 6 dias a la semana;Soy Encargado de un local gastroinomico;Restaurante vegano y gluten free;14/05/2022;Encargado de Turno;Solo con planillas de Excel;0;Excel;No;0;;;
+;;;;;;;;;;;;;;;;;;;
+09-08-2022 23:02:13;Argentina;Masculino;14/09/1984;Universitario completo;Licenciado en Ciencias Politicas ;Maestria en Politicas Publicas en UTDT, pero no la termine. Deje al 50%. ;Si;Si;Aerolinea, realiza transporte comercial de pasajeros y carga;01/08/2022;Analista de inteligencia de negocio ;Si, pero poco.;0;Excel, Python, Power BI, SQL;Si, pero poco.;0;Python, JavaScript, SQL y muy poco de PHP;Aprender modelos predictivos y automatizacion de procesos y tareas;Las que respondi en la preg. 19
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:15:00;Colombia;Femenino;11/03/1995;Profesional;Contaduria Publica;Ninguno;Si;.;Back Office;23/07/2018; Especialista de Contabilidad y Reportes;Si;4;Excel;No;0;No Aplica;aprenderemos a utilizar los datos para la toma de desiciones;aprenderemos a utilizar los datos para la toma de desiciones
+10-08-2022 00:10:17;Brasil - São Paulo;;;;;;;;;;;;;;;;;;
+Sí;01/08/2022;Analista;No. Sólo estudios.;0;Python;No;0;Python, SQL;Sí;Aprender mucho y arrancar con un trabajo en Data Science acá en Bogotá.;;;;;;;;;
+10-08-2022 00:08:42;Pilar, Buenos Aires, Argentina;Masculino;14/04/1992;Universitario;Ingeniería Química;N/A;Si;Si;Productos químicos;01/11/2021;Responsable de calidad;Si;1;-Excel;;;;;
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:08:38;Argentina, CABA;Masculino;15/11/1989;Universitario Abandonado;Filosofia (4° año);Ninguna;Si;me aburro;Es un estudio juridico;01/03/2015;Administrativo;Nop;0;ninguna;nop;0;ninguno;Voy a aprender a analizar datos y mejorar mi codigo de Python;Voy a aprender a analizar datos y mejorar mi codigo de Python y conseguir un trabajo que realmente me guste
+10-08-2022 00:19:05;Venezuela;Masculino;19/11/1990;Master;Ingeniería;Master en yacimientos;si;aprendí sobre datos;Producción de bombas de Agua;01/02/2021;Ingeniero de aplicaciones;Si;2;Excel;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:09:04;Argentina;Femenino;17/06/1981;universitario;Medicina;Medicina legal;si;si;Medicina;01/06/2007;medica;si;0;excel;no;0;0;creo que vamos a ver lo basico de estadistica y programacion que me permita trabajar y desde ahi poder profundizar mis conocimientos;aprender todo lo necesario para trabajar de manera independiente
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:08:58;Argentina;Masculino;15/09/1999;Universitario;Licenciatura en economía y finanzas;Ningúna;Si;.;Venta mayorista de productos para supermercados;20/09/2021;Vendedor;Si;1;Excel, Power Bi y Python;Si;2;Python, Flutter y Swift;Voy a aprender;Mejorar mi habilidad de programacion
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:08:00;Argentina;Masculino;09/06/1976;Universitario;Actuario;no;si;como actuario;seguros / servicios;10/09/2013;Actuario;si;20;excel sql;si;10;sql;vas a aprender herramientas a lo largo del curso;lo mismo que creo que va a pasar
+10-08-2022 00:10:24;Argentina;Masculino;22/01/1986;Universitario - Carrera de Grado;Licenciatura en Administración de Empresas;Ninguna;Si;Comercio;Gastronomía;01/01/2016;Socio Gerente;No;0;Excel ;No;0;VBA;Adquirir conocimientos de programación, manejo de datos, ejecución de modelos y predicción de comportamientos para la toma de decisiones.;Adquirir las herramientas y conocimientos necesarios para poder trabajar con grandes volumenes de información
+10-08-2022 00:08:09;Buenos Aires, Argentina.;Hombre;07/03/1997;Universitario;Licenciatura en Economía;0;Sí;Trabajé como analista en finanzas.;Produce y vende licencias de Software de gestión empresarial (SAP);01/06/2021;Analista Financiero.;Sí;3;Excel;No;0;0;Aprender a programar y construir modelos de Data Science.;Conseguir un trabajo relacionado con ciencia de datos. Cambio de carrera profesional. O por lo menos integrar finanzas con ciencia de datos.
+10-08-2022 00:09:57;Argentina, Rosario;;;;;;;;;;;;;;;;;;
+Programo la producción y el stock de insumos para autoabastecimiento. ;01/08/2022;Programacion y control de la producción;Si;2;Excel, Softland, Tango;No;0;0;Aprender a programar e interpretar datos;Adquirir nuevos conocimientos para un mejor analisis de datos;;;;;;;;;
+10-08-2022 00:09:36;Argentina - Tucuman;Masculino;07/07/1998;Universitario - en curso;Lic. en administracion.;no curse posgrado;Si;Realizo pruebas para asegurar la calidad del software.;Desarrolla y comercializa software de gestion contable.;08/09/2021;QA tester;No;0;Excel;no;0;0;Voy a aprender, un poco me voy a frustrar;Me gustaria aprender y conseguir las herramientas para seguir haciendolo por mi cuenta.
+10-08-2022 00:10:23;argentina caba;masculino;04/09/1999;universitario;economia empresarial;ninguna;no;f;nada;f;desempleado;no;0;- Excel;no;0;f;voy a aprender mucho;que aprenda mucho sin sufrir jajaj
+10-08-2022 00:08:35;Argentina, Buenos Aires;Masculino;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+Si;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:18:49;;;;;;;;;;;;;;;;;;;
+Si;Servicios profesionales: Registramos y mantenemos tu empresa en USA todo remoto sin que tengas que ir a USA.  Corporaciones, DAO LLC, LLC, etc...;02/02/2022;Analista de Datos;Todo el tiempo;3;- Excel;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:09:03;CABA;Masculino;27/03/1996;Universitario Completo;Actuario en Economia;Ninguna;No;N/A;N/A;N/A;N/A;N/A;1.5;Excel;No;0;N/A;Voy a aprender cosas sobre Data Science;Adquirir herramientas para conseguir un trabajo como cientifico de datos
+10-08-2022 00:08:45;Resistencia, Chaco - Argentina;Masculino;24/08/1992;Universitario Completo;Contador Público (completo);Mg. de Derecho Tributario (completo);;;;;;;;;;;;;
+3;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:08:49;Buenos Aires, Argentina;Varón;18/09/1992;Universitario Completo;Licenciatura en Sociología;Ninguna;Si;?;Docencia;01/03/2010;Docente de música;Si, en prácticas de estudios sociales;1;SPSS, procesadores de texto convencionales;No trabajo, si estudio;1;C++, Python, C, SQL;Aprender como funciona el rubro, herramientas, formas de trabajo.;
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:09:43;Argentina;Masculino;28/06/1994;Terciario;Lic en Informatica ;Ninguna;si;Programe software;Venta de Software;01/04/2019;Developer Software;SI;3;excel, python;si;6;python, sql, javascrip, c#, genexus;Creo que es una oportunidad para aprender demasiado :);Aprender todo lo posible 
+10-08-2022 00:09:05;Venezuela;Femenino;15/03/1989;Universitario;Licenciatura en Estadística;Ninguna;Si;Si;Seguridad;08/10/2018;Analista;Si;7;Excel ;No;0;Ninguno;Si;Aprender
+10-08-2022 00:09:07;Argentina;Masculino;11/10/1982;Universitario;Ingeniería en Informática;Ninguna;Si;NS/NC;Obtener direcciones de correo electrónico y telefonos;15/09/2020;CTO;NO;0;Python;Si;15;- Python;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:10:21;;;;;;;;;;;;;;;;;;;
+si;Consultoria;06/02/22;Desarrolador bi;Si;1;Excel, SQL, Tableau, Power Bi, Oracle;NO;0;SQL;Mucho aprendizaje y dolor de cabeza jajaja;Que sea un curso que me cautive para poder motivarme para aprender cada  vez mas sobre datos;;;;;;;;
+10-08-2022 00:11:06;Argentina;Femenino;19/10/1992;Universitario;Economía;Ninguna;Si;soy analista;Servicios;11-21;Analista;Si;7;Excel;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+09-08-2022 22:58:45;;;;;;;;;;;;;;;;;;;
+Si;Genera conocimiento;01/07/2020;Postdoctoral Researcher;No;0;Excel;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:11:16;Bogotá, Colombia;Femenino;04/04/1975;Maestría;Mercadeo ;Maestria en Administración;si;si;Servicios de consultoria y capacitación sobre crédito educativo en Latinoamérica;01/04/2019;Consultor ;Si;15;Excel;no;0;ninguno;Voy a aprender a manejar datos de una manera más optima y eficiente.;Sentirme segura con los conceptos y la aplicación de los temas que aprenda en este curso.
+10-08-2022 00:09:49;Argentina;Femenino;31/07/1989;Posgrado;Medicina;Transplante;Si;Si;Cirugía;01/04/2021;Estudiante de posgrado;Si;1;Excel, R, Python;Si;1;Otros (R);Va a ser dificil pero espero aprobarlo y aprender mucho.;Idem pregunta 19
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:08:51;Perù;Masculino;06/11/1998;Cursando Ingieneria en Sistemas;Primer año - cursando;Ninguna;si;No;Indumentaria Masculina;01/10/2021;Manager;No;0;- Excel;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:10:25;Buenos Aires;Femenino;11/05/1985;Universitario;Actuario;ninguna;si;analicé datos;Bebidas;01/06/2022;Analista Inteligencia Comercial;si;9;Excel, SPSS, R, SQL;no;0;no;voy a aprender a programar;aprender a modelar en python
+10-08-2022 00:09:37;Argentina;Masculino;23/11/1995;Universitario;Ingenieria en Informatica (sin finalizar);ninguna;Si;Soy Programador;Una plataforma de callcenters en USA;05/05/2022;Desarrollador de Software;muy poco;0;Excel, Python;Si;5;Javascript, Python;vamos a analizar los datos;aprender sobre ML
+10-08-2022 00:10:11;Argentina;Masculino;08/02/1996;Bachillerato ;Ninguna finalizada;Ninguna finalizada;Si ;Camarero;Gastronomía;01/02/2022;Camarero;No;Ninguno;Ninguna;No;0;Ninguno;Situaciones de resolución de problemas informáticos a las cuales no estoy acostumbrado. ;Desarrollo de habilidades y perspectiva de la práctica. 
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:10:38;Argentina;Hombre;10/02/1997;Universitario;Ingeniería Industrial;Ninguna;Sí; ;E-commerce;19/10/2020;Analista de datos;Sí;2;Excel;No;0;Ninguno;Vamos a aprender y poner en práctica los fundamentos de varios de los temas dentro de Data Science;Me gustaría llevarme herramientas para poder aplicar en mi trabajo para generar soluciones nuevas.
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:08:55;Buenos Aires, Argentina;Masculino;12/11/1998;Universitario;Administracion de empresas;Ninguna;No;-;-;-;Estudiante;Si;0;- Excel;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:09:42;Francia;Masculino;07/03/1983;Universitario completo;Licenciatura en física;Carrea, ninguna. Cursos de posgrado, varios en radioterapia.;Sí.;Hice ciencia y salvé vidas;Salud;10/07/2017;Físico médico;Sí.;1;Excel, Otras (VisualStudio);Sí.;1;C++;Abrirme puertas;Cambiar de trabajo
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:09:02;Zapala;Masculino;11/04/1991;Universitario;Ingeniería en Petróleo;Ninguna;Si;Hice tareas varias (?;N/A;13/12/2020;Analista de mercados;Si;0;Excel;No;0;N/A;Voy a aprender mucho;Lo que puse en la pregunta 19
+09-08-2022 22:58:02;Rosario, Argentina;Masculino;17/07/1993;Universitario - Carrera de Grado;Administración de Empresas;Ninguna;Sí;SÍ;Desarrollo de software específico para concesionarias de vehículos;11/07/2018;Marketplace Manager;Sí;0;Excel;No;0;Ninguno;Recopilación, limpieza, análisis de datos. Creación de modelos de simulación/predicción en base a dicho análisis de datos.;Aprender al máximo el manipuleo y análisis de datos para la toma de decisiones eficientes y a tiempo. Me encantaría poder alcanzar el nivel de aprendizaje necesario que me permita desarrollarme laboralmente en este rubro.
+10-08-2022 00:08:43;Argentina;Masculino;28/05/1997;Universitario;Ingenieria Industrial;Ninguno;No;Estuve de vacaciones;Empresa integradora de e-commerce;27/09/2021;Product Analyst & QC;Si;1;Excel, Python, JS, SQL, AWS, PowerBi, DataStudio;Si, aunque poco.;0;JavaScript;Creo que vamos a aprender una bocha de python y data science; Espero que podamos aplicar todo lo aprendido a nuestra vida cotidiana y poder comenzar a desarrollarme como data scientist
+10-08-2022 00:10:19;Mar del Plata, Argentina;Masculino;01/02/1994;Universitario finalizado;Ingeniería química;N/A;SÍ;Optimización de producción de crudo en yacimientos de Mendoza y Neuquén.;Oil & Gas;01/04/2019;Ingeniero de Reservorios;SÍ;0;Excel, Power BI;NO;0;N/A;Aprender y fijar conocimientos previos de Python aplicados a Datos. Orientarme en mi aprendizaje futuro.;Terminar el curso sintiéndome cómodo y ágil programando. Finalizar motivado para profundizar conocimientos en Ciencias de Datos.
+10-08-2022 00:10:32;Argentina;;;;;;;;;;;;;;;;;;
+me desenvuelvo como BI Consultant, trabajando en procesos de ETL con SQL y creando reportes/dashboards con powerbi/tableau/Microstrategy ;01/04/2022;Consultor BI;SI;0;Excel, python, sql, etl, powerbi, tableau, microstrategy;Si;0;Python, SQL;Magia;Que me den muchos proyectos para hacer;;;;;;;;;
+10-08-2022 00:08:37;Argentina;Femenino;10/11/1994;Grado;Licenciatura en Relaciones Laborales;Ninguna;Si;realizo analisis de datos.;Proveedor de un servicio de seguridad.;01/06/2021;Analista de Reporting;Si;7;Excel, Power BI, Power Query, Access, Python;No;0;Ninguno;Aprender a realizar modelos predictivos.;Poder comprender la utilizacion de las herramientas y llegar a realizar modelos predictivos.
+10-08-2022 00:08:30;Rosario, Santa Fe, Argentina;Masculino;16/12/1992;Universitario Completo;Contador Publico;Ninguno;Si;no aplico conocimientos relativos a Data Science;Es una empresa financiera cripto;01/04/2022;Analista en Prevención de Lavado de Dinero;Suelo utilizar Metabase, aplicativo donde realizo consultas en SQL y a su vez utilizo AppSheet, aplicativo para la visualización de datos.;0;Excel;;;;;
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:08:47;Argentina;Masculino;18/03/1998;Terciario en curso;Tecnicatura en Analsis de Sistemas;Ninguna;Si;Trabajo como desarrollador en Servicenow;Tecnologia;06/06/2022;Junior Servicenow Developer;No;0;Otras(Javascript);Si;1;JavaScript;Crecer, aprender y desarrollarme como profesional;Aprender nuevas herramientas para hacer un cambio a futuro
+10-08-2022 00:09:10;Cordoba - Argentina;Masculino;02/09/1975;M.B.A;Administracion de Empresas;Master en Gestion Empresaria;si;si;consultoria;01/01/2011;Consultor Business Intelligence;si;10;qlikview;si;10;qlikview;expandir capacidades para explorar datos;aprender y comprender todo
+09-08-2022 22:59:04;CABA;Masculino;21/03/2000;Facultad;Historia;Ninguna;Si;.;Laboratorio bioquímico;08/08/2020;.;No;0;Excel, Python;No;0;.;Adquirir conceptos básicos de ciencias de datos;aprender más sobre este área y tener una base para seguir estudiando
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:13:48;Cordoba;Masculino;04/09/1997;Universitario;Ingenieria Industrial;Ninguno;Si;-;Consultoria;08/08/2022;Business Consultant;Si;0;Excel;No;0;DAX;Voy a aprender machine learning y python;Aprender a crear modelos utiles para mi trabajo
+;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:10:18;Argentina;Masculino;26/07/1985;Universitario;Licenciatura en Ciencias Matemáticas;Ninguna;Sí;-;Software;01/01/2021;Senior Data Analyst;Sí;10;Mayoritariamente Excel, SQL, Python;Sí;2;Sql, Python, Scala;-;Aprender
+10-08-2022 00:10:05;Argentina;Masculino;21/08/1999;Posgrado;Licenciatura en Economia Empresarial;Management + Analytics;Si;Me desempeño como analista;Consultoria;13/12/2021;Analista de negocio;No;0;Excel, R, Python;No;0;Ninguno;Veremos muchos contenidos;Espero seguir perfeccionando mis conocimientos
+10-08-2022 00:09:12;Pasto, Colombia;Femenino;30/05/1988;Maestria;Ingenieria Biologica;Ciencias Agricolas;Si;N/A;Soy independiente. Rentista.;15/02/2021;Rentista;Si;5+;Excel, SAS, R;No;0;N/A;Aprendere herramientas y procesos para desarrollar DataSc;Volverme una crack en DataSc
+10-08-2022 00:09:21;;;;;;;;;;;;;;;;;;;
+Si;Packaging Industrial;08/08/2022;Pasante de calidad;No todavia;0;Excel;No;0;0;Aprender muchos conocimientos acerca del mundo de los datos;Poder aplicar los conocimientos adquiridos a lo largo del curso a mi trabajo.;;;;;;;;
+10-08-2022 00:09:39;argentina;femenino;25/12/1986;universitario;Ingenieria Industrial;ninguna;si;si;empresa cervecera;01/12/2016;Ingeniera Industrial;si;0;excel, power bi;no;0;power bi;experiencia en big data ;aprender y aplicarlo
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:23:31;;;;;;;;;;;;;;;;;;;
+10-08-2022 00:10:43;Ciudad de Buenos Aires;Masculino;10/10/1983;Doctorado;Arquitectura;Urbanismo;Si;Si;Politicas publicas;01/07/2021;Asesor;Si;8;Excel, QGIS;No;0;Ninguno;Incorporar nuevas herramientas para verificar mis intuicionoes;Se cumpla
